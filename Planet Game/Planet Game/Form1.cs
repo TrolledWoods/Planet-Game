@@ -20,6 +20,8 @@ namespace Planet_Game
         private void Form1_Load(object sender, EventArgs e)
         {
             Console.WriteLine("Hello Earth");
+
+            Console.WriteLine("Hello World too");
         }
     }
 }
